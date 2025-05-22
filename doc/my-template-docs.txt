@@ -45,17 +45,17 @@ PLUGIN STRUCTURE ~
 >
     .
     ├── lua
-    │   ├── plugin_name
+    │   ├── log_lopper
     │   │   └── module.lua
-    │   └── plugin_name.lua
+    │   └── log_lopper.lua
     ├── Makefile
     ├── plugin
-    │   └── plugin_name.lua
+    │   └── log_lopper.lua
     ├── README.md
     ├── tests
     │   ├── minimal_init.lua
-    │   └── plugin_name
-    │       └── plugin_name_spec.lua
+    │   └── log_lopper
+    │       └── log_lopper_spec.lua
 <
 
 ==============================================================================
